@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #80ED99;
+  background-image: url('signup-back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+
+
+
+.form-signin {
+  width: 300%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 20px 100px 30px 150px;
+
+}
+
+.h3{
+  color:yellow;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.middle
+{
+  border-radius: 0;
+}
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

@@ -1,0 +1,62 @@
+
+/*
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+} */
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-image: url('qrcodepage-back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+}
+.heading {
+  font-size: 2em;
+  margin: 1em 3em 1em;
+}
+/* .qrBtn {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 0 auto 2em;
+  background-color: #fff;
+  border: 1px solid #000;
+  outline: none;
+  cursor: pointer;
+}*/
+ #qrCode{
+   margin-bottom:1em;
+ }
+
+.qrBtn{
+  background-color: #F9D5A7;
+  border-radius:10px;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 2px 5px;
+}
+#qrText{
+height: 30px;
+width:  300px;
+border-radius: 10px;
+}
+
+.container{
+  /* From https://css.glass */
+background: rgba(255, 255, 255, 1);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.4px);
+-webkit-backdrop-filter: blur(9.4px);
+border: 1px solid rgba(255, 255, 255, 1);
+margin:  3em auto;
+padding: 20px;
+background-color: #FFB085;
+/* opacity: 0.9; */
+}
