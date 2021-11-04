@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593914949055",
+    "project_id": "ancient-f2923",
+    "storage_bucket": "ancient-f2923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593914949055:android:a3e15ca966d1699fca050a",
+        "android_client_info": {
+          "package_name": "com.example.ancient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593914949055-plhll8uej5v4ipt0mcuv1973512es2m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIj7Xr0f3bUtWBs6FVYqq-ae5bVYoMvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593914949055-plhll8uej5v4ipt0mcuv1973512es2m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
